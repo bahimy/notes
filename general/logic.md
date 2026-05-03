@@ -27,7 +27,7 @@ _Силлогизм_, или _дедуктивное умозаключение_
 
 Средний термин обозначает то понятие, которое содержится в посылках и связывает их между собой, но в состав заключения не входит.
 
-<p style="text-align: center">
+<p style="text-align:center;">
     <img src="assets/images/logic_reasoning_deduct.png" alt="Deductive reasoning map">
 </p>
 
