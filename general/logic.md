@@ -341,9 +341,7 @@ _Категорическим суждением_ называется тако�
 
 ## Преобразование суждений
 
-<p style="border: 1px solid black; padding: 5px; overflow: auto;">
-    <img src="assets/images/rArrow.svg" alt="Right arrow" role="img" /> Уточнение логического смысла суждений, превращение, обращение
-</p>
+<img src=assets/images/transform.png alt="Mindmap on transformation" />
 
 ### Уточнение логического смысла суждений
 
