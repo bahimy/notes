@@ -27,9 +27,9 @@
      showgrid="true"
      showguides="false"
      inkscape:lockguides="false"
-     inkscape:zoom="3.4174425"
-     inkscape:cx="835.42005"
-     inkscape:cy="158.45182"
+     inkscape:zoom="1.070635"
+     inkscape:cx="557.61298"
+     inkscape:cy="396.49365"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -1777,7 +1777,7 @@
        d="m 710.55119,113.38584 -4.33594,-4.33593 h -1.63476 l 3.75586,3.75585 h -7.51758 v 1.16016 h 7.51758 l -3.75586,3.75586 h 1.63476 z"
        id="text1"
        aria-label="à"
-       inkscape:export-filename="..\images\rArrow.svg"
+       inkscape:export-filename="..\images\transform.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -1903,23 +1903,23 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';writing-mode:lr-tb;direction:ltr;display:inline;fill:#b3b3b3;stroke:none;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         x="724.94305"
+         x="726.94305"
          y="159.16064"
          id="text7-1"><tspan
            sodipodi:role="line"
            id="tspan7-4"
-           x="724.94305"
+           x="726.94305"
            y="159.16064"
            style="fill:#000000;stroke:none">?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';writing-mode:lr-tb;direction:ltr;display:inline;fill:#b3b3b3;stroke:none;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         x="725.43506"
+         x="727.43506"
          y="177.29028"
          id="text7-1-3"><tspan
            sodipodi:role="line"
            id="tspan7-4-2"
-           x="725.43506"
+           x="727.43506"
            y="177.29028"
            style="fill:#000000;stroke:none">/</tspan></text>
       <rect
