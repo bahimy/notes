@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # Методика чистописания
 
 Н. Н. Боголюбов
@@ -22,9 +24,11 @@
 
 Основная задача первой ступени заключается в том, чтобы привить учащимся навыки в крупном отрывистом письме всех строчных, прописных букв и цифр с твёрдым усвоением правильного строения и способа их начертания.
 
+Работы ведутся в тетради <a href="./assets/images/N1Sheet.pdf">№1</a>
+
 ### II класс
 
-Вторая ступень обучения преследует задачу обучения связному письму буквами средней величины сперва по сетке с частыми, а затем с редкими косыми линиями (тетради №2, №3). Это обусловливает ускорение письма по крайней мере вдвое по сравнению с I классом.
+Вторая ступень обучения преследует задачу обучения связному письму буквами средней величины сперва по сетке с частыми, а затем с редкими косыми линиями (тетради <a href="./assets/images/N2Sheet.pdf">№2</a>, <a href="./assets/images/N3Sheet.pdf">№3</a>). Это обусловливает ускорение письма по крайней мере вдвое по сравнению с I классом.
 
 На этом этапе в письме вырабатывается новое качество &mdash; плавность, достигаемая, во-первых, безотрывностью письма, во-вторых, его ритмичностью.
 
@@ -81,12 +85,12 @@ _Выработка у учащихся твёрдых, устойчивых н�
 
 Особенно вредными для здоровья учащихся являются низкий наклон головы, вызывающий близорукость, и неправильное положение корпуса пишущего, вызывающее сколиоз. При неправильном положении корпуса, при его чрезмерном сгибании сдавливается грудная полость.
 
-|Возраст учащихся|Рост в _см_|Высота парты|Высота скамейки|Дифференциация|Дистанция скамьи|
+|Возраст учащихся|Рост в _см_|Высота скамейки|Дифференциация|Дистанция скамьи|
 |---|---|---|---|---|---|
-|7&mdash;8|110&mdash;119|61|31,5|20,5|4|
-|9&mdash;10|120&mdash;129|65|34|22|4|
-|11&mdash;12|130&mdash;139|71,5|38|24|4|
-|13&mdash;14|140&mdash;149|77,5|41|27|4|
+|7&mdash;8|110&mdash;119|31,5|20,5|4|
+|9&mdash;10|120&mdash;129|34|22|4|
+|11&mdash;12|130&mdash;139|38|24|4|
+|13&mdash;14|140&mdash;149|41|27|4|
 
 При правильной посадке пишущий обязан сидеть прямо; грудь его не должна касаться края стола, так как это вызывает неправильное дыхание и заболевание легких.
 
@@ -128,7 +132,49 @@ _Генетический метод_. Он имеет следующие осо
 2. Дети изучают написание букв не в алфавитном порядке, а в порядке возрастающей трудности их написания.
 3. Обучение строится на основе генезиса, т. е. образования каждой следующей буквы путём присоединения нового элемента к предшествующей букве и предварительного усвоения основного элемента, лежащего в основе новой группы букв.
 
-***КАРТИНКА ЭЛЕМЕНТОВ СТРОЧНЫХ И ПРОПИСНЫХ БУКВ (C. 32, 33)***
+В состав строчных букв входят следующие элементы:
+
+1. <img src="assets/images/elements/e01.png" style="vertical-align: middle;" /> прямая черта с нажимом;
+2. <img src="assets/images/elements/e02.png" style="vertical-align: middle;" /> прямая черта с нажимом и закруглением внизу;
+3. <img src="assets/images/elements/e03.png" style="vertical-align: middle;" /> прямая черта с нажимом и закруглением вверху;
+4. <img src="assets/images/elements/e04.png" style="vertical-align: middle;" /> прямая черта с нажимом и закруглением вверху и внизу;
+5. <img src="assets/images/elements/e05.png" style="vertical-align: middle;" /> прямая черта с двумя волосными соединительными чертами;
+6. <img src="assets/images/elements/e06.png" style="vertical-align: middle;" /> удлинённая прямая черта с нажимом;
+7. <img src="assets/images/elements/e07.png" style="vertical-align: middle;" /> удлинённая прямая черта с нажимом и петлёй;
+8. <img src="assets/images/elements/e08.png" style="vertical-align: middle;" /> левый полуовал;
+9. <img src="assets/images/elements/e09.png" style="vertical-align: middle;" /> правый полуовал;
+10. <img src="assets/images/elements/e10.png" style="vertical-align: middle;" /> правый полуовал с петлёю;
+11. <img src="assets/images/elements/e11.png" style="vertical-align: middle;" /> овал с нажимом с левой стороны;
+12. <img src="assets/images/elements/e12.png" style="vertical-align: middle;" /> овал с нажимом с правой стороны;
+
+Кроме основных элементов, в строчные буквы входят дополнительные элементы:
+
+1. <img src="assets/images/elements/e13.png" style="vertical-align: middle;" /> точка с волосной чертой;
+2. <img src="assets/images/elements/e14.png" style="vertical-align: middle;" /> опущенная петля;
+3. <img src="assets/images/elements/e15.png" style="vertical-align: middle;" /> конечный узелок;
+4. <img src="assets/images/elements/e16.png" style="vertical-align: middle;" /> начальный узелок;
+5. <img src="assets/images/elements/e17.png" style="vertical-align: middle;" /> волнистая черта с нажимом посередине;
+6. <img src="assets/images/elements/e18.png" style="vertical-align: middle;" /> волнистая черта без нажима;
+7. <img src="assets/images/elements/e19.png" style="vertical-align: middle;" /> верхняя поднятая петля;
+8. <img src="assets/images/elements/e20.png" style="vertical-align: middle;" /> точка с малой пламевидной чертой;
+9. <img src="assets/images/elements/e21.png" style="vertical-align: middle;" /> малый овал.
+
+В заглавные или прописные буквы входят следующие элементы:
+
+1. <img src="assets/images/elements/e22.png" style="vertical-align: middle;" /> начальное закругление;
+2. <img src="assets/images/elements/e23.png" style="vertical-align: middle;" /> прямая черта с нажимом и закруглением внизу;
+3. <img src="assets/images/elements/e24.png" style="vertical-align: middle;" /> прямая черта с нажимом и закруглегием вверху и внизу;
+4. <img src="assets/images/elements/e25.png" style="vertical-align: middle;" /> петля;
+5. <img src="assets/images/elements/e26.png" style="vertical-align: middle;" /> точка с волосной изогнутой чертой, идущей наклонно вверх;
+6. <img src="assets/images/elements/e27.png" style="vertical-align: middle;" /> правый полуовал;
+7. <img src="assets/images/elements/e28.png" style="vertical-align: middle;" /> левый полуовал;
+8. <img src="assets/images/elements/e29.png" style="vertical-align: middle;" /> овал;
+9. <img src="assets/images/elements/e30.png" style="vertical-align: middle;" /> волнистая черта с нажимом посередине;
+10. <img src="assets/images/elements/e31.png" style="vertical-align: middle;" /> пламевидная черта;
+11. <img src="assets/images/elements/e32.png" style="vertical-align: middle;" /> левый полуовал с петлею;
+12. <img src="assets/images/elements/e33.png" style="vertical-align: middle;" /> начальное закругление с волнистой чертой;
+13. <img src="assets/images/elements/e34.png" style="vertical-align: middle;" /> овал с нажимом с левой стороны;
+14. <img src="assets/images/elements/e35.png" style="vertical-align: middle;" /> овал с нажимом с правой стороны;
 
 Все строчные буквы в зависимости от трудности их написания делятся на пять групп.
 
