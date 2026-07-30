@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     showguides="false"
+     showguides="true"
      inkscape:lockguides="false"
-     inkscape:zoom="1.070635"
-     inkscape:cx="558.08002"
-     inkscape:cy="396.49367"
+     inkscape:zoom="5.1910828"
+     inkscape:cx="494.40552"
+     inkscape:cy="255.53436"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -75,11 +75,6 @@
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="18.897638,699.21261"
-       orientation="0,-1"
-       id="guide493"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="56.692916,661.41733"
        orientation="1,0"
        id="guide495"
@@ -90,9 +85,14 @@
        id="guide497"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1058.2678,396.8504"
+       position="113.38583,737.00788"
+       orientation="0,-1"
+       id="guide93"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1058.2677,510.23622"
        orientation="1,0"
-       id="guide501"
+       id="guide95"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -384,9 +384,9 @@
        style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect502);display:inline;fill:#000000;fill-opacity:1;stroke:#2c2bbd;stroke-width:1.13386"><tspan
          x="56.693359"
          y="73.400056"
-         id="tspan92"><tspan
+         id="tspan93"><tspan
            style="stroke:none"
-           id="tspan9">Законы и формы правильного мышления</tspan></tspan></text>
+           id="tspan4">Законы и формы правильного мышления</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -394,81 +394,146 @@
      inkscape:label="Умозаключения"
      style="display:inline"
      inkscape:highlight-color="#26d926">
-    <rect
-       style="display:inline;fill:none;stroke:#000000;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-       id="rect1225-3"
-       width="169.51181"
-       height="169.51183"
-       x="56.692913"
-       y="94.48819" />
     <text
        xml:space="preserve"
-       id="text1782-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-3);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"><tspan
-         x="63.744141"
-         y="118.24576"
-         id="tspan93">Умозаключение</tspan></text>
+       id="text1782-6-7-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;white-space:pre-wrap;shape-inside:url(#path1-2);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+       x="84.755905"
+       y="0"><tspan
+         x="408.12333"
+         y="156.41205"
+         id="tspan95">Индуктивное <tspan
+   style="font-family:Wingdings;-inkscape-font-specification:Wingdings"
+   id="tspan94">â</tspan></tspan></text>
+    <path
+       id="path1-2"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.13386"
+       d="m 553.37413,151.18111 -11.01192,18.89764 H 402.51969 l -11.01192,-18.89764 11.01192,-18.89764 h 139.84252 z"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       id="text1782-6-7-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;white-space:pre-wrap;shape-inside:url(#path1-5);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+       x="84.755905"
+       y="0"><tspan
+         x="771.62579"
+         y="156.98041"
+         id="tspan97">Дедуктивное <tspan
+   style="font-family:Wingdings;-inkscape-font-specification:Wingdings"
+   id="tspan96">á</tspan></tspan></text>
+    <path
+       id="path1"
+       style="display:inline;fill:#1a1a1a;stroke:none;stroke-width:1.13386"
+       d="m 734.79145,151.18111 -11.01192,18.89764 H 583.93701 l -11.01192,-18.89764 11.01192,-18.89764 h 139.84252 z"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       id="text1782-6-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;white-space:pre-wrap;shape-inside:url(#path1);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+       x="84.755905"
+       y="0"><tspan
+         x="589.07561"
+         y="156.04068"
+         id="tspan99"><tspan
+           style="fill:#f9f9f9"
+           id="tspan98">Умозаключение</tspan></tspan></text>
+    <path
+       id="path1-5"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.13386"
+       d="m 916.04545,151.18111 -11.01192,18.32942 H 765.19101 l -11.01192,-18.32942 11.01192,-18.32942 h 139.84252 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 553.37413,151.18111 19.55096,0"
+       id="path2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path1-2"
+       inkscape:connection-end="#path1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 754.17909,151.18111 H 734.79145"
+       id="path3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path1-5"
+       inkscape:connection-end="#path1" />
     <g
-       id="g2795"
-       transform="translate(-136.063)"
-       inkscape:export-filename="logic_reasoning_deduct.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
-         style="display:inline;fill:none;stroke:#000000;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect1225-3-7"
-         width="128.50395"
-         height="113.38583"
-         x="211.65355"
-         y="132.28346" />
-      <text
-         xml:space="preserve"
-         id="text1782-6-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-3-7);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         x="9.8186846"
-         y="0"><tspan
-           x="323.17674"
-           y="156.04068"
-           id="tspan95"><tspan
-             style="font-style:italic;-inkscape-font-specification:'PT Sans Italic';text-align:end;text-anchor:end"
-             id="tspan94">P</tspan></tspan></text>
-      <rect
-         style="display:inline;fill:none;stroke:#000000;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect1225-3-7-5"
-         width="83.149597"
-         height="75.590553"
-         x="234.33072"
-         y="151.18111" />
-      <text
-         xml:space="preserve"
-         id="text1782-6-5-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-3-7-5);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         x="23.632042"
-         y="0"><tspan
-           x="296.355"
-           y="174.93912"
-           id="tspan97"><tspan
-             style="font-style:italic;-inkscape-font-specification:'PT Sans Italic';text-align:end;text-anchor:end"
-             id="tspan96">M</tspan></tspan></text>
-      <rect
-         style="display:inline;fill:none;stroke:#000000;stroke-width:1.13384;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect1225-3-7-5-9"
-         width="34.015751"
-         height="37.795277"
-         x="257.0079"
-         y="170.07875" />
-      <text
-         xml:space="preserve"
-         id="text1782-6-5-6-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;white-space:pre;shape-inside:url(#rect1225-3-7-5-9);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
-         x="28.709385"
-         y="0"><tspan
-           x="269.30229"
-           y="193.8356"
-           id="tspan99"><tspan
-             style="font-style:italic;-inkscape-font-specification:'PT Sans Italic'"
-             id="tspan98">S</tspan></tspan></text>
+       id="g3"
+       transform="translate(332.59842,56.692916)">
+      <g
+         id="g2795"
+         transform="translate(-136.063)"
+         inkscape:export-filename="logic_reasoning_deduct.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <rect
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect1225-3-7"
+           width="128.50395"
+           height="113.38583"
+           x="211.65355"
+           y="132.28346" />
+        <text
+           xml:space="preserve"
+           id="text1782-6-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-3-7);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+           x="9.8186846"
+           y="0"><tspan
+             x="322.84075"
+             y="156.04068"
+             id="tspan101"><tspan
+               style="font-style:italic;font-weight:bold;-inkscape-font-specification:'PT Sans Italic';text-align:end;text-anchor:end"
+               id="tspan100">P</tspan></tspan></text>
+        <rect
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect1225-3-7-5"
+           width="83.149597"
+           height="75.590553"
+           x="234.33072"
+           y="151.18111" />
+        <text
+           xml:space="preserve"
+           id="text1782-6-5-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-3-7-5);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+           x="23.632042"
+           y="0"><tspan
+             x="296.355"
+             y="174.93912"
+             id="tspan103"><tspan
+               style="font-style:italic;-inkscape-font-specification:'PT Sans Italic';text-align:end;text-anchor:end"
+               id="tspan102">M</tspan></tspan></text>
+        <rect
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.13384;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect1225-3-7-5-9"
+           width="34.015751"
+           height="37.795277"
+           x="257.0079"
+           y="170.07875" />
+        <text
+           xml:space="preserve"
+           id="text1782-6-5-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;white-space:pre;shape-inside:url(#rect1225-3-7-5-9);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
+           x="28.709385"
+           y="0"><tspan
+             x="269.30229"
+             y="193.8356"
+             id="tspan105"><tspan
+               style="font-style:italic;-inkscape-font-specification:'PT Sans Italic'"
+               id="tspan104">S</tspan></tspan></text>
+      </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:'PT Serif';-inkscape-font-specification:'PT Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-width:1.13386"
+       x="411.96851"
+       y="211.65355"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="411.96851"
+         y="211.65355"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">(!)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -494,7 +559,7 @@
          style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
            x="64.542969"
            y="266.44693"
-           id="tspan100">Предмет</tspan></text>
+           id="tspan106">Предмет</tspan></text>
       <rect
          style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
          id="rect1352-6-5"
@@ -508,7 +573,7 @@
          style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
            x="72.101562"
            y="304.24185"
-           id="tspan101">Признаки</tspan></text>
+           id="tspan107">Признаки</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1"
@@ -528,9 +593,9 @@
        style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-3-0);shape-padding:3.77952;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
          x="60.472656"
          y="640.32779"
-         id="tspan103"><tspan
+         id="tspan109"><tspan
            style="font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
-           id="tspan102">Понятие</tspan></tspan></text>
+           id="tspan108">Понятие</tspan></tspan></text>
     <rect
        style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
        id="rect1352-6-3-0-6"
@@ -544,9 +609,9 @@
        style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-3-0-6);shape-padding:3.77952;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
          x="149.29102"
          y="640.32779"
-         id="tspan105"><tspan
+         id="tspan111"><tspan
            style="font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
-           id="tspan104">Понятия</tspan></tspan></text>
+           id="tspan110">Понятия</tspan></tspan></text>
     <g
        id="g15931"
        inkscape:label="Понятие"
@@ -564,7 +629,7 @@
          style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-3);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
            x="64.542969"
            y="417.62662"
-           id="tspan106">Понятие</tspan></text>
+           id="tspan112">Понятие</tspan></text>
       <rect
          style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
          id="rect1352-6-5-1"
@@ -579,7 +644,7 @@
          style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-1);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
            x="72.101562"
            y="455.42154"
-           id="tspan107">Содержимое</tspan></text>
+           id="tspan113">Содержимое</tspan></text>
       <rect
          style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
          id="rect1352-6-5-1-9"
@@ -594,7 +659,7 @@
          style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-1-9);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
            x="72.101562"
            y="500.77701"
-           id="tspan108">Объем</tspan></text>
+           id="tspan114">Объем</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1"
@@ -671,7 +736,7 @@
          id="text1314"><tspan
            x="64.074219"
            y="118.57584"
-           id="tspan109">Мышление</tspan></text>
+           id="tspan115">Мышление</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';text-align:start;white-space:pre;shape-inside:url(#rect1352-3-6);shape-padding:3.77952;display:inline;fill:#000000;stroke:#ffffff;stroke-width:5.66929;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000"
@@ -680,7 +745,7 @@
          id="text1314-3"><tspan
            x="68.03125"
            y="148.9899"
-           id="tspan110">Ощущения</tspan></text>
+           id="tspan116">Ощущения</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';text-align:start;white-space:pre;shape-inside:url(#rect1352-3-6-5);shape-padding:3.77952;display:inline;fill:#000000;stroke:#ffffff;stroke-width:5.66929;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000"
@@ -689,7 +754,7 @@
          id="text1314-3-7"><tspan
            x="68.03125"
            y="186.78482"
-           id="tspan111">Восприятия</tspan></text>
+           id="tspan117">Восприятия</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';text-align:start;white-space:pre;shape-inside:url(#rect1352-3-6-5-6);shape-padding:3.77952;display:inline;fill:#000000;stroke:#ffffff;stroke-width:5.66929;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill;stop-color:#000000"
@@ -698,7 +763,7 @@
          id="text1314-3-7-3"><tspan
            x="68.03125"
            y="224.57974"
-           id="tspan112">Приёмы</tspan></text>
+           id="tspan118">Приёмы</tspan></text>
       <rect
          style="display:inline;fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
          id="rect1352-3-6-5-6"
@@ -748,7 +813,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"><tspan
          x="63.744141"
          y="118.24576"
-         id="tspan113">Суждение</tspan></text>
+         id="tspan119">Суждение</tspan></text>
     <g
        inkscape:groupmode="layer"
        id="layer4"
@@ -768,7 +833,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-1-3);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"><tspan
            x="521.06641"
            y="159.81998"
-           id="tspan114">Объём</tspan></text>
+           id="tspan120">Объём</tspan></text>
       <g
          id="g7070"
          transform="translate(-43.737821,-373.95272)">
@@ -789,9 +854,9 @@
              y="0"><tspan
                x="605.51079"
                y="689.75362"
-               id="tspan116"><tspan
+               id="tspan122"><tspan
                  style="fill:#000000;stroke:none"
-                 id="tspan115">S</tspan></tspan></text>
+                 id="tspan121">S</tspan></tspan></text>
         </g>
         <g
            id="g1031-2"
@@ -811,9 +876,9 @@
              y="0"><tspan
                x="605.32412"
                y="689.75362"
-               id="tspan118"><tspan
+               id="tspan124"><tspan
                  style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-                 id="tspan117">P</tspan></tspan></text>
+                 id="tspan123">P</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -835,9 +900,9 @@
              y="0"><tspan
                x="305.00773"
                y="689.75362"
-               id="tspan120"><tspan
+               id="tspan126"><tspan
                  style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-                 id="tspan119">P</tspan></tspan></text>
+                 id="tspan125">P</tspan></tspan></text>
           <circle
              style="display:inline;fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
              id="path1254-5"
@@ -852,9 +917,9 @@
              y="0"><tspan
                x="305.19602"
                y="708.65205"
-               id="tspan122"><tspan
+               id="tspan128"><tspan
                  style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-                 id="tspan121">S</tspan></tspan></text>
+                 id="tspan127">S</tspan></tspan></text>
         </g>
         <circle
            style="display:inline;fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
@@ -870,15 +935,15 @@
            y="0"><tspan
              x="365.66704"
              y="691.7829"
-             id="tspan124"><tspan
+             id="tspan130"><tspan
                style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-               id="tspan123">S
+               id="tspan129">S
 </tspan></tspan><tspan
              x="365.48037"
              y="718.44953"
-             id="tspan126"><tspan
+             id="tspan132"><tspan
                style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-               id="tspan125">P</tspan></tspan></text>
+               id="tspan131">P</tspan></tspan></text>
       </g>
       <g
          id="g7059"
@@ -897,9 +962,9 @@
            y="0"><tspan
              x="536.74603"
              y="688.46846"
-             id="tspan128"><tspan
+             id="tspan134"><tspan
                style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-               id="tspan127">P</tspan></tspan></text>
+               id="tspan133">P</tspan></tspan></text>
         <circle
            style="display:inline;fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
            id="path1254-5-5"
@@ -914,9 +979,9 @@
            y="0"><tspan
              x="536.93102"
              y="707.3669"
-             id="tspan130"><tspan
+             id="tspan136"><tspan
                style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-               id="tspan129">S</tspan></tspan></text>
+               id="tspan135">S</tspan></tspan></text>
         <circle
            style="display:inline;fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
            id="path1254-5-2"
@@ -931,9 +996,9 @@
            y="0"><tspan
              x="441.76665"
              y="688.46846"
-             id="tspan132"><tspan
+             id="tspan138"><tspan
                style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-               id="tspan131">S</tspan></tspan></text>
+               id="tspan137">S</tspan></tspan></text>
         <circle
            style="display:inline;fill:none;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
            id="path1254-5-2-0"
@@ -948,15 +1013,15 @@
            y="0"><tspan
              x="480"
              y="689.68915"
-             id="tspan134"><tspan
+             id="tspan140"><tspan
                style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-               id="tspan133">
+               id="tspan139">
 </tspan></tspan><tspan
              x="476.27334"
              y="716.35578"
-             id="tspan136"><tspan
+             id="tspan142"><tspan
                style="text-align:center;text-anchor:middle;fill:#000000;stroke:none"
-               id="tspan135">P</tspan></tspan></text>
+               id="tspan141">P</tspan></tspan></text>
         <path
            id="path1254-5-2-2"
            style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#pattern13699);fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
@@ -1020,7 +1085,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-1-3-6);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"><tspan
            x="521.06641"
            y="465.96256"
-           id="tspan137">Отношения</tspan></text>
+           id="tspan143">Отношения</tspan></text>
       <rect
          style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
          id="rect2949"
@@ -1036,9 +1101,9 @@
          id="text2953"><tspan
            x="533.90302"
            y="494.32"
-           id="tspan139"><tspan
+           id="tspan145"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan138">A</tspan></tspan></text>
+             id="tspan144">A</tspan></tspan></text>
       <rect
          style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
          id="rect2949-5"
@@ -1054,9 +1119,9 @@
          id="text2953-3"><tspan
            x="536.255"
            y="607.70672"
-           id="tspan141"><tspan
+           id="tspan147"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan140">I</tspan></tspan></text>
+             id="tspan146">I</tspan></tspan></text>
       <rect
          style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
          id="rect2949-56"
@@ -1072,9 +1137,9 @@
          id="text2953-2"><tspan
            x="647.68076"
            y="494.32"
-           id="tspan143"><tspan
+           id="tspan149"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan142">E</tspan></tspan></text>
+             id="tspan148">E</tspan></tspan></text>
       <rect
          style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
          id="rect2949-5-9"
@@ -1090,9 +1155,9 @@
          id="text2953-3-1"><tspan
            x="646.49675"
            y="607.70672"
-           id="tspan145"><tspan
+           id="tspan151"><tspan
              style="fill:#000000;stroke:none"
-             id="tspan144">O</tspan></tspan></text>
+             id="tspan150">O</tspan></tspan></text>
       <path
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2);paint-order:markers stroke fill;stop-color:#000000"
          d="M 538.58272,498.89767 V 591.4961"
@@ -1207,7 +1272,7 @@
            inkscape:label="Header"><tspan
              x="291.31445"
              y="126.60318"
-             id="tspan146">Суждение</tspan></text>
+             id="tspan152">Суждение</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8"
@@ -1222,7 +1287,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="298.87305"
              y="164.3981"
-             id="tspan147">Субъект</tspan></text>
+             id="tspan153">Субъект</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4"
@@ -1237,7 +1302,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="298.87305"
              y="232.43131"
-             id="tspan148">Предикат</tspan></text>
+             id="tspan154">Предикат</tspan></text>
         <path
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-dasharray:3.40158, 3.40158;stroke-dashoffset:0;stroke-opacity:1"
            d="m 343.93701,177.6378 v 30.23622"
@@ -1275,7 +1340,7 @@
              inkscape:label="Header"><tspan
                x="291.31445"
                y="126.60318"
-               id="tspan149">Суждение</tspan></text>
+               id="tspan155">Суждение</tspan></text>
           <rect
              style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
              id="rect1352-6-5-8-3"
@@ -1290,7 +1355,7 @@
              style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-3);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
                x="298.87305"
                y="164.3981"
-               id="tspan150">Субъект</tspan></text>
+               id="tspan156">Субъект</tspan></text>
           <rect
              style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
              id="rect1352-6-5-8-4-6"
@@ -1305,7 +1370,7 @@
              style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-6);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
                x="298.87305"
                y="232.43131"
-               id="tspan151">Предикат</tspan></text>
+               id="tspan157">Предикат</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-dasharray:3.40158, 3.40158;stroke-dashoffset:0;stroke-opacity:1"
              d="m 343.93701,177.6378 v 30.23622"
@@ -1331,7 +1396,7 @@
            inkscape:label="Header"><tspan
              x="291.31445"
              y="126.60318"
-             id="tspan152">Суждение</tspan></text>
+             id="tspan158">Суждение</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-1"
@@ -1346,7 +1411,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-1);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="298.87305"
              y="164.3981"
-             id="tspan153">Субъект</tspan></text>
+             id="tspan159">Субъект</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4-8"
@@ -1361,7 +1426,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-8);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="298.87305"
              y="232.43131"
-             id="tspan154">Предикат</tspan></text>
+             id="tspan160">Предикат</tspan></text>
         <path
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-dasharray:3.40158, 3.40158;stroke-dashoffset:0;stroke-opacity:1"
            d="m 343.93701,177.6378 v 30.23622"
@@ -1412,7 +1477,7 @@
            inkscape:label="Header"><tspan
              x="313.99219"
              y="587.7067"
-             id="tspan155">Суждение</tspan></text>
+             id="tspan161">Суждение</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-1-0"
@@ -1427,7 +1492,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-1-0);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="321.55078"
              y="625.50162"
-             id="tspan156">Субъект</tspan></text>
+             id="tspan162">Субъект</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4-8-2"
@@ -1442,7 +1507,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-8-2);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="521.86523"
              y="625.50162"
-             id="tspan157">Предикат</tspan></text>
+             id="tspan163">Предикат</tspan></text>
         <path
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-dasharray:3.40157, 3.40157;stroke-dashoffset:0;stroke-opacity:1"
            d="m 419.52753,619.84258 h 94.48822"
@@ -1494,7 +1559,7 @@
            inkscape:label="Header"><tspan
              x="434.93555"
              y="126.60318"
-             id="tspan158">Суждение</tspan></text>
+             id="tspan164">Суждение</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-8"
@@ -1509,7 +1574,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-8);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="442.49609"
              y="164.3981"
-             id="tspan159">Субъект</tspan></text>
+             id="tspan165">Субъект</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4-3"
@@ -1524,7 +1589,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-3);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="442.49609"
              y="232.42935"
-             id="tspan160">Предикат</tspan></text>
+             id="tspan166">Предикат</tspan></text>
         <path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
            d="m 487.5591,177.6378 v 7.55906"
@@ -1574,7 +1639,7 @@
            inkscape:label="Header"><tspan
              x="574.7793"
              y="126.60318"
-             id="tspan161">Суждение</tspan></text>
+             id="tspan167">Суждение</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-8-4"
@@ -1589,7 +1654,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-8-4);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="582.33789"
              y="164.3981"
-             id="tspan162">Субъект</tspan></text>
+             id="tspan168">Субъект</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4-3-0"
@@ -1604,7 +1669,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-3-0);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="582.33789"
              y="232.42935"
-             id="tspan163">P</tspan></text>
+             id="tspan169">P</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4-3-0-4"
@@ -1619,7 +1684,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-3-0-4);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="657.92773"
              y="232.43131"
-             id="tspan164">P</tspan></text>
+             id="tspan170">P</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4-3-0-5"
@@ -1634,7 +1699,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-3-0-5);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="620.13281"
              y="232.43131"
-             id="tspan165">P</tspan></text>
+             id="tspan171">P</tspan></text>
         <g
            id="g21253">
           <path
@@ -1696,7 +1761,7 @@
            inkscape:label="Header"><tspan
              x="434.93555"
              y="308.02115"
-             id="tspan166">Суждение</tspan></text>
+             id="tspan172">Суждение</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-8-3"
@@ -1711,7 +1776,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-8-3);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="442.49609"
              y="345.81607"
-             id="tspan167">Субъект</tspan></text>
+             id="tspan173">Субъект</tspan></text>
         <rect
            style="fill:none;fill-opacity:0.67451;stroke:#000000;stroke-width:1.13385;stroke-dasharray:none;stroke-opacity:1"
            id="rect1352-6-5-8-4-3-6"
@@ -1726,7 +1791,7 @@
            style="font-size:18.6667px;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption';white-space:pre;shape-inside:url(#rect1352-6-5-8-4-3-6);shape-padding:7.8489;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-opacity:1"><tspan
              x="442.49609"
              y="413.84732"
-             id="tspan168">Предикат</tspan></text>
+             id="tspan174">Предикат</tspan></text>
         <path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
            d="m 487.55905,359.05513 v 7.55906"
@@ -1770,7 +1835,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';white-space:pre;shape-inside:url(#rect1225-1);shape-padding:7.05022;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"><tspan
            x="71.302734"
            y="159.81998"
-           id="tspan169">Виды</tspan></text>
+           id="tspan175">Виды</tspan></text>
     </g>
     <path
        style="font-family:Wingdings;-inkscape-font-specification:Wingdings;white-space:pre"
@@ -1862,33 +1927,33 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect8);shape-padding:3.77953;display:inline;fill:none;stroke:#000000;stroke-width:1.13385;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"><tspan
              x="748.3457"
              y="143.0232"
-             id="tspan171"><tspan
+             id="tspan177"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan170">Простая и сложная формы
+               id="tspan176">Простая и сложная формы
 </tspan></tspan><tspan
              x="748.3457"
              y="158.0232"
-             id="tspan173"><tspan
+             id="tspan179"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan172">Утвердительные и отрицательные
+               id="tspan178">Утвердительные и отрицательные
 </tspan></tspan><tspan
              x="748.3457"
              y="173.0232"
-             id="tspan175"><tspan
+             id="tspan181"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan174">Общие и частные
+               id="tspan180">Общие и частные
 </tspan></tspan><tspan
              x="748.3457"
              y="188.0232"
-             id="tspan177"><tspan
+             id="tspan183"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan176">Единичные и общие
+               id="tspan182">Единичные и общие
 </tspan></tspan><tspan
              x="748.3457"
              y="203.0232"
-             id="tspan179"><tspan
+             id="tspan185"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan178">Выделяющие</tspan></tspan></text>
+               id="tspan184">Выделяющие</tspan></tspan></text>
       </g>
       <path
          id="rect10-7"
