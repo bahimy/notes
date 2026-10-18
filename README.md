@@ -193,6 +193,12 @@ Mind map есть схема идей
 
 **Ш5** — Повторить предыдущие шаги повторно но в ускоренном темпе для тренировки метода.
 
+### Oxford Scholar
+
+#### Conceptual clarity
+
+Once a week prepare assay 3 to 5 thousand words in responce to sharply defined question in the form that can survive inetrrogation. Reread it with a hostile but fair mindset, circeling every word you struggle to define. Underline every claim that depend on a unstated assumption. Rewrite the assay until you can defend each sentence with explicit evidence while also responding to potential counterargument.
+
 ## GPT
 
 1. КАРТА — о чём и куда движется диалог.
